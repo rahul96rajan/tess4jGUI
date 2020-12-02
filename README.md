@@ -9,7 +9,7 @@ Output: text extracted from images.
 
 The extracted text can be further saved as .txt file.
 
-Tools and Technologies used are: Java, Spring and Tess4J library.
+Tools and Technologies used are: Java, Spring and tess4j library.
 
 
 <ins>Contributors</ins>: [Rahul Rajan](https://github.com/rahul96rajan), [Rahul Mohan](https://github.com/rahulmohan995), Cilsun Joseph
